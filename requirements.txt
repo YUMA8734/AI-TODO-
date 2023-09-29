@@ -26,7 +26,7 @@ SQLAlchemy==2.0.21
 sympy==1.12
 tokenizers==0.13.3
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==2.0.0+cpu
+torch==1.12.0+cpu
 tqdm==4.66.1
 transformers==4.33.3
 typing_extensions==4.8.0
